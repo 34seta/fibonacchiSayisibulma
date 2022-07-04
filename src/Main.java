@@ -21,4 +21,5 @@ int total=0;
             System.out.println();
         }
     }
+
 }
